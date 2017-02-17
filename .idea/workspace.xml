@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a032acb-2a52-43d1-92ca-b766dcdb50af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__babble.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__babble.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__babble.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__babble.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/tile_group.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/tile_rack.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/word.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/tile_group/test_append.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/tile_group/test_hand.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/tile_group/test_initialize.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/tile_group/test_remove.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/word/test_score.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -442,7 +429,7 @@
       <updated>1487341653366</updated>
       <workItem from="1487341655337" duration="4636000" />
       <workItem from="1487347509828" duration="745000" />
-      <workItem from="1487369066217" duration="453000" />
+      <workItem from="1487369066217" duration="480000" />
     </task>
     <task id="LOCAL-00001" summary="added functionality for tile_bag and required unit testing">
       <created>1487346667785</created>
@@ -451,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487346667785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished tilegroup and word class">
+      <created>1487369543299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487369543299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5834000" />
+    <option name="totallyTimeSpent" value="5861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="821" y="23" width="859" height="983" extended-state="0" />
@@ -489,7 +483,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added functionality for tile_bag and required unit testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="added functionality for tile_bag and required unit testing" />
+    <MESSAGE value="finished tilegroup and word class" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished tilegroup and word class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
